@@ -1,0 +1,46 @@
+{
+    "menu": [
+        {
+            "jenis": "pizza",
+            "nama": "Pizza sapi",
+            "deskripsi": "dengan potongan daging sapi bakar melimpah",
+            "harga": 29000,
+            "gambar": "sapi.jpg"
+        },
+        {
+            "jenis": "pizza",
+            "nama": "Pizza Sosis",
+            "deskripsi": "dengan Irisan sosis melimpah + extra keju",
+            "harga": 25000,
+            "gambar": "sosis.png"
+        },
+        {
+            "jenis": "pasta",
+            "nama": "Beef pasta",
+            "deskripsi": "dengan potongan daging sapi bakar melimpah",
+            "harga": 20000,
+            "gambar": "spagetisapi.jpg"
+        },
+        {
+            "jenis": "pasta",
+            "nama": "pasta sosis",
+            "deskripsi": "dengan Irisan sosis melimpah + extra keju",
+            "harga": 18000,
+            "gambar": "spagetisosis.jpg"
+        },
+        {
+            "jenis": "es",
+            "nama": "extrajosshh",
+            "deskripsi": "josshhh asli pegunungan",
+            "harga": 1500000,
+            "gambar": "esjos.jpg"
+        },
+        {
+            "jenis": "es",
+            "nama": "es kukubima",
+            "deskripsi": "kuku asli dari bima",
+            "harga": 1500000,
+            "gambar": "kukubima.jpg"
+        }
+    ]
+}
